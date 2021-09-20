@@ -1,9 +1,6 @@
 ---
-title: ''
+title: 2. Duchovní útěcha
 ---
-
-## 2.  
-Duchovní útěcha
 
 Polní kurát Martinec v pravém slova smyslu nepřišel k Švejkovi, ale veplul k němu jako baletka na jevišti. Nebeské touhy a láhev starého gumpoldskirchen činily ho v této dojemné chvíli lehkým jako pírko. Zdálo se mu, že se přibližuje v této vážné a posvátné chvíli blíže k bohu, zatímco se přibližoval k Švejkovi.
 

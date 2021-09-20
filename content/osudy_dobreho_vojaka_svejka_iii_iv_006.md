@@ -1,9 +1,6 @@
 ---
-title: ''
+title: 1. Přes Uhry
 ---
-
-## 1.  
-Přes Uhry
 
 Konečně se všichni dočkali toho okamžiku, kdy je nacpali do vagónů v poměru 42 mužů k 8 koním. Koním ovšem se jelo pohodlněji než mužstvu, poněvadž mohli spát vstoje, ale to nevadilo. Vojenský vlak vezl do Haliče opět novou skupinu lidí hnaných na jatky.
 
