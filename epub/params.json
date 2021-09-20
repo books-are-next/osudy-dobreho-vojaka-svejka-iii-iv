@@ -9,9 +9,9 @@
       "languageCode": "cs"
     },
     "elements": {
-      "title": "MLP-uroven1-cast",
+      "title": "MLP-uroven1-cast\nMLP-uroven2-kapitola",
       "subtitle": "",
-      "h2": "MLP-uroven2-kapitola",
+      "h2": "",
       "h3": "",
       "h4": "",
       "hr": "",
@@ -148,8 +148,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Jaroslav Hašek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-20T13:32:13.110Z",
-      "languageCode": "cs"
+      "modified": "2021-09-20T13:40:40.003Z"
     },
     "chapters": [
       {
@@ -177,7 +176,7 @@
         "xhtml": "osudy_dobreho_vojaka_svejka_iii_iv_004.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DÍL 3. SLAVNÝ VÝPRASK",
         "subtitleSuggest": "",
         "filename": "osudy_dobreho_vojaka_svejka_iii_iv_005.md",
         "xhtml": "osudy_dobreho_vojaka_svejka_iii_iv_005.xhtml"
@@ -207,7 +206,7 @@
         "xhtml": "osudy_dobreho_vojaka_svejka_iii_iv_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "DÍL 4. POKRAČOVÁNÍSLAVNÉHO VÝPRASKU",
         "subtitleSuggest": "",
         "filename": "osudy_dobreho_vojaka_svejka_iii_iv_010.md",
         "xhtml": "osudy_dobreho_vojaka_svejka_iii_iv_010.xhtml"
@@ -317,6 +316,6 @@
       "user": "books-are-next",
       "repo": "osudy-dobreho-vojaka-svejka-za-svetove-valky-III.-IV."
     },
-    "generatedAt": 1632144733874
+    "generatedAt": 1632145241002
   }
 }
