@@ -1,9 +1,6 @@
 ---
-title: ''
+title: "2. V\_Budapešti"
 ---
-
-## 2.  
-V Budapešti
 
 Matušič přinesl na vojenském nádraží v Budapešti hejtmanovi Ságnerovi z velitelství telegram, který poslal nešťastný velitel brigády dopravený do sanatoria. Byl téhož obsahu, nešifrován, jako na poslední stanici: „Rychle uvařit menáž a pochodem na Sokal.“ K tomu bylo připojeno: „Vozatajstvo začíslit u východní skupiny. Výzvědná služba se zrušuje. 13. pochodový prapor staví most přes řeku Bug. Bližší v novinách.“
 

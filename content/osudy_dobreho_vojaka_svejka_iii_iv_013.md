@@ -1,9 +1,6 @@
 ---
-title: ''
+title: "3. Švejk opět u\_své marškumpanie"
 ---
-
-## 3.  
-Švejk opět u své marškumpanie
 
 Onen major, který dělal auditora při včerejším dopoledním líčení se Švejkem, byla tatáž figura, která večer u generála pila na bratrství s polním kurátem a klímala.
 

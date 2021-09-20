@@ -9,9 +9,9 @@
       "languageCode": "cs"
     },
     "elements": {
-      "title": "MLP-uroven1-cast",
+      "title": "MLP-uroven1-cast\nMLP-uroven2-kapitola",
       "subtitle": "",
-      "h2": "MLP-uroven2-kapitola",
+      "h2": "",
       "h3": "",
       "h4": "",
       "hr": "",
@@ -148,7 +148,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Jaroslav Hašek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-20T13:40:40.003Z"
+      "modified": "2021-09-20T13:42:25.448Z"
     },
     "chapters": [
       {
@@ -182,25 +182,25 @@
         "xhtml": "osudy_dobreho_vojaka_svejka_iii_iv_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "1. Přes Uhry",
         "subtitleSuggest": "",
         "filename": "osudy_dobreho_vojaka_svejka_iii_iv_006.md",
         "xhtml": "osudy_dobreho_vojaka_svejka_iii_iv_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "2. V Budapešti",
         "subtitleSuggest": "",
         "filename": "osudy_dobreho_vojaka_svejka_iii_iv_007.md",
         "xhtml": "osudy_dobreho_vojaka_svejka_iii_iv_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "3. Z Hatvanu na hranice Haliče",
         "subtitleSuggest": "",
         "filename": "osudy_dobreho_vojaka_svejka_iii_iv_008.md",
         "xhtml": "osudy_dobreho_vojaka_svejka_iii_iv_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "4. Marschieren Marsch!",
         "subtitleSuggest": "",
         "filename": "osudy_dobreho_vojaka_svejka_iii_iv_009.md",
         "xhtml": "osudy_dobreho_vojaka_svejka_iii_iv_009.xhtml"
@@ -212,19 +212,19 @@
         "xhtml": "osudy_dobreho_vojaka_svejka_iii_iv_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "1. Švejk v transportu ruských zajatců",
         "subtitleSuggest": "",
         "filename": "osudy_dobreho_vojaka_svejka_iii_iv_011.md",
         "xhtml": "osudy_dobreho_vojaka_svejka_iii_iv_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "2. Duchovní útěcha",
         "subtitleSuggest": "",
         "filename": "osudy_dobreho_vojaka_svejka_iii_iv_012.md",
         "xhtml": "osudy_dobreho_vojaka_svejka_iii_iv_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "3. Švejk opět u své marškumpanie",
         "subtitleSuggest": "",
         "filename": "osudy_dobreho_vojaka_svejka_iii_iv_013.md",
         "xhtml": "osudy_dobreho_vojaka_svejka_iii_iv_013.xhtml"
@@ -316,6 +316,6 @@
       "user": "books-are-next",
       "repo": "osudy-dobreho-vojaka-svejka-za-svetove-valky-III.-IV."
     },
-    "generatedAt": 1632145241002
+    "generatedAt": 1632145346346
   }
 }

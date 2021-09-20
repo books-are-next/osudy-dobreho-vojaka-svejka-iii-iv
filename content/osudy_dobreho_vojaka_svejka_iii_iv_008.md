@@ -1,9 +1,6 @@
 ---
-title: ''
+title: "3. Z\_Hatvanu na hranice Haliče"
 ---
-
-## 3.  
-Z Hatvanu na hranice Haliče
 
 Po celou dobu železniční přepravy bataliónu, který měl sklízet válečnou slávu, až projde pěšky od Laborce východní Haličí na front, vedly se ve vagónu, kde byl jednoroční dobrovolník a Švejk, opět podivné řeči, víceméně velezrádného obsahu, v menším měřítku, ale můžeme říct povšechně, dělo se tak i v jiných vagónech, ba i ve štábním vagónu panovala jakási nespokojenost, poněvadž ve Füzesabony přišel rozkaz po armádě od pluku, ve kterém se porce vína snižovala důstojníkům o jednu osminku litru. Ovšem že přitom nebylo zapomenuto na mužstvo, kterému se snižovala dávka sága o jeden dekagram na muže, což bylo tím záhadnějším, že nikdo nikdy na vojně sága neviděl.
 
