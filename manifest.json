@@ -1,0 +1,288 @@
+{
+  "author": "Jaroslav Hašek",
+  "identifier": "hasek-osudy-dobreho-vojaka-svejka-za-svetove-valky-iiiiv-47b8a0d",
+  "languagecode": "cs",
+  "modified": "2021-09-20T13:32:13.110Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Osudy dobrého vojáka Švejka za světové války III.–IV.",
+  "revision": "47b8a0d",
+  "generatedAt": {
+    "date": "Mon Sep 20 2021 13:50:57 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1632145857454
+  },
+  "documents": [
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 155,
+      "chars": 1022,
+      "ideas": 27,
+      "role": "colophon",
+      "order": null,
+      "next": "osudy_dobreho_vojaka_svejka_iii_iv_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "index.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "index",
+      "order": null,
+      "next": "osudy_dobreho_vojaka_svejka_iii_iv_001.html",
+      "toc": []
+    },
+    {
+      "title": "",
+      "file": "osudy_dobreho_vojaka_svejka_iii_iv_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "osudy_dobreho_vojaka_svejka_iii_iv_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "osudy_dobreho_vojaka_svejka_iii_iv_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "osudy_dobreho_vojaka_svejka_iii_iv_001.html",
+      "next": "osudy_dobreho_vojaka_svejka_iii_iv_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DÍL 3. SLAVNÝ VÝPRASK",
+      "file": "osudy_dobreho_vojaka_svejka_iii_iv_005.html",
+      "words": 4,
+      "chars": 21,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "osudy_dobreho_vojaka_svejka_iii_iv_002.html",
+      "next": "osudy_dobreho_vojaka_svejka_iii_iv_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DÍL 3. SLAVNÝ VÝPRASK",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1. Přes Uhry",
+      "file": "osudy_dobreho_vojaka_svejka_iii_iv_006.html",
+      "words": 16533,
+      "chars": 101123,
+      "ideas": 483,
+      "role": "chapter",
+      "order": 3,
+      "prev": "osudy_dobreho_vojaka_svejka_iii_iv_005.html",
+      "next": "osudy_dobreho_vojaka_svejka_iii_iv_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Přes Uhry",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2. V Budapešti",
+      "file": "osudy_dobreho_vojaka_svejka_iii_iv_007.html",
+      "words": 15241,
+      "chars": 93115,
+      "ideas": 436,
+      "role": "chapter",
+      "order": 4,
+      "prev": "osudy_dobreho_vojaka_svejka_iii_iv_006.html",
+      "next": "osudy_dobreho_vojaka_svejka_iii_iv_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V Budapešti",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3. Z Hatvanu na hranice Haliče",
+      "file": "osudy_dobreho_vojaka_svejka_iii_iv_008.html",
+      "words": 15021,
+      "chars": 91700,
+      "ideas": 386,
+      "role": "chapter",
+      "order": 5,
+      "prev": "osudy_dobreho_vojaka_svejka_iii_iv_007.html",
+      "next": "osudy_dobreho_vojaka_svejka_iii_iv_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Z Hatvanu na hranice Haliče",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4. Marschieren Marsch!",
+      "file": "osudy_dobreho_vojaka_svejka_iii_iv_009.html",
+      "words": 14932,
+      "chars": 88751,
+      "ideas": 390,
+      "role": "chapter",
+      "order": 6,
+      "prev": "osudy_dobreho_vojaka_svejka_iii_iv_008.html",
+      "next": "osudy_dobreho_vojaka_svejka_iii_iv_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Marschieren Marsch!",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DÍL 4. POKRAČOVÁNÍSLAVNÉHO VÝPRASKU",
+      "file": "osudy_dobreho_vojaka_svejka_iii_iv_010.html",
+      "words": 4,
+      "chars": 35,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 7,
+      "prev": "osudy_dobreho_vojaka_svejka_iii_iv_009.html",
+      "next": "osudy_dobreho_vojaka_svejka_iii_iv_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DÍL 4. POKRAČOVÁNÍSLAVNÉHO VÝPRASKU",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1. Švejk v transportu ruských zajatců",
+      "file": "osudy_dobreho_vojaka_svejka_iii_iv_011.html",
+      "words": 7526,
+      "chars": 45769,
+      "ideas": 211,
+      "role": "chapter",
+      "order": 8,
+      "prev": "osudy_dobreho_vojaka_svejka_iii_iv_010.html",
+      "next": "osudy_dobreho_vojaka_svejka_iii_iv_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Švejk v transportu ruských zajatců",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2. Duchovní útěcha",
+      "file": "osudy_dobreho_vojaka_svejka_iii_iv_012.html",
+      "words": 2739,
+      "chars": 16466,
+      "ideas": 73,
+      "role": "chapter",
+      "order": 9,
+      "prev": "osudy_dobreho_vojaka_svejka_iii_iv_011.html",
+      "next": "osudy_dobreho_vojaka_svejka_iii_iv_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Duchovní útěcha",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3. Švejk opět u své marškumpanie",
+      "file": "osudy_dobreho_vojaka_svejka_iii_iv_013.html",
+      "words": 11876,
+      "chars": 72219,
+      "ideas": 399,
+      "role": "chapter",
+      "order": 10,
+      "prev": "osudy_dobreho_vojaka_svejka_iii_iv_012.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Švejk opět u své marškumpanie",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "resources.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "other",
+      "order": null,
+      "next": "osudy_dobreho_vojaka_svejka_iii_iv_001.html",
+      "toc": []
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 84031,
+      "chars": 510221,
+      "ideas": 2407
+    },
+    "chapters": {
+      "words": 83876,
+      "chars": 509199,
+      "ideas": 2380
+    }
+  }
+}
