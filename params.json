@@ -32,33 +32,45 @@
         "filename": "osudy_dobreho_vojaka_svejka_iii_iv_001.md",
         "xhtml": "osudy_dobreho_vojaka_svejka_iii_iv_001.xhtml",
         "id": 0,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": false,
+        "title": "",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "osudy_dobreho_vojaka_svejka_iii_iv_002.md",
         "xhtml": "osudy_dobreho_vojaka_svejka_iii_iv_002.xhtml",
         "id": 1,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": false,
+        "title": "",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "osudy_dobreho_vojaka_svejka_iii_iv_003.md",
         "xhtml": "osudy_dobreho_vojaka_svejka_iii_iv_003.xhtml",
         "id": 2,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": false,
+        "title": "",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "osudy_dobreho_vojaka_svejka_iii_iv_004.md",
         "xhtml": "osudy_dobreho_vojaka_svejka_iii_iv_004.xhtml",
         "id": 3,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": false,
+        "title": "",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "osudy_dobreho_vojaka_svejka_iii_iv_005.md",
@@ -66,7 +78,10 @@
         "id": 4,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "DÍL 3. SLAVNÝ VÝPRASK",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "osudy_dobreho_vojaka_svejka_iii_iv_006.md",
@@ -74,7 +89,10 @@
         "id": 5,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "1. Přes Uhry",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "osudy_dobreho_vojaka_svejka_iii_iv_007.md",
@@ -82,7 +100,10 @@
         "id": 6,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "2. V Budapešti",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "osudy_dobreho_vojaka_svejka_iii_iv_008.md",
@@ -90,7 +111,10 @@
         "id": 7,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "3. Z Hatvanu na hranice Haliče",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "osudy_dobreho_vojaka_svejka_iii_iv_009.md",
@@ -98,7 +122,10 @@
         "id": 8,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "4. Marschieren Marsch!",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "osudy_dobreho_vojaka_svejka_iii_iv_010.md",
@@ -106,7 +133,10 @@
         "id": 9,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "DÍL 4. POKRAČOVÁNÍ SLAVNÉHO VÝPRASKU",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "osudy_dobreho_vojaka_svejka_iii_iv_011.md",
@@ -114,7 +144,10 @@
         "id": 10,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "1. Švejk v transportu ruských zajatců",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "osudy_dobreho_vojaka_svejka_iii_iv_012.md",
@@ -122,7 +155,10 @@
         "id": 11,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "2. Duchovní útěcha",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "osudy_dobreho_vojaka_svejka_iii_iv_013.md",
@@ -130,15 +166,21 @@
         "id": 12,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "3. Švejk opět u své marškumpanie",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "osudy_dobreho_vojaka_svejka_iii_iv_014.md",
         "xhtml": "osudy_dobreho_vojaka_svejka_iii_iv_014.xhtml",
         "id": 13,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": false,
+        "title": "",
+        "subtitle": "",
+        "children": []
       }
     ]
   },
@@ -148,7 +190,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Jaroslav Hašek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-20T13:42:25.448Z"
+      "modified": "2021-09-20T13:46:44.080Z"
     },
     "chapters": [
       {
@@ -316,6 +358,6 @@
       "user": "books-are-next",
       "repo": "osudy-dobreho-vojaka-svejka-za-svetove-valky-III.-IV."
     },
-    "generatedAt": 1632145346346
+    "generatedAt": 1632145605093
   }
 }
