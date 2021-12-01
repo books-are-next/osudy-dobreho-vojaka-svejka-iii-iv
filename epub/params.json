@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Osudy dobrého vojáka Švejka za světové války III.–IV.",
@@ -6,7 +7,9 @@
       "author": "Jaroslav Hašek",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-09-20T13:32:13.110Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP-uroven1-cast\nMLP-uroven2-kapitola",
@@ -32,7 +35,7 @@
         "filename": "osudy_dobreho_vojaka_svejka_iii_iv_001.md",
         "xhtml": "osudy_dobreho_vojaka_svejka_iii_iv_001.xhtml",
         "id": 0,
-        "role": "break",
+        "role": "cover",
         "numberedChildren": false,
         "inToc": false,
         "title": "",
@@ -361,3 +364,4 @@
     "generatedAt": 1632145346346
   }
 }
+
