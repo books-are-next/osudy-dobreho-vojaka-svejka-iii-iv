@@ -1,7 +1,7 @@
 /* global self, caches, fetch */
 /* eslint-disable no-restricted-globals */
 
-const CACHE = 'cache-3055ca5';
+const CACHE = 'cache-5bb3494';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -39,7 +39,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./index.html","./manifest.json","./favicon.png","./osudy_dobreho_vojaka_svejka_iii_iv_001.html","./osudy_dobreho_vojaka_svejka_iii_iv_002.html","./osudy_dobreho_vojaka_svejka_iii_iv_006.html","./osudy_dobreho_vojaka_svejka_iii_iv_007.html","./osudy_dobreho_vojaka_svejka_iii_iv_005.html","./osudy_dobreho_vojaka_svejka_iii_iv_008.html","./osudy_dobreho_vojaka_svejka_iii_iv_009.html","./osudy_dobreho_vojaka_svejka_iii_iv_011.html","./osudy_dobreho_vojaka_svejka_iii_iv_010.html","./osudy_dobreho_vojaka_svejka_iii_iv_012.html","./osudy_dobreho_vojaka_svejka_iii_iv_013.html","./resources.html","./resources/image001_fmt.jpeg","./resources/image003_fmt.jpeg","./resources/image004_fmt.jpeg","./resources/index.xml","./resources/obalka_osudy_dobreho_v_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js","./style/style.min.css"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./osudy_dobreho_vojaka_svejka_iii_iv_001.html","./osudy_dobreho_vojaka_svejka_iii_iv_002.html","./osudy_dobreho_vojaka_svejka_iii_iv_005.html","./osudy_dobreho_vojaka_svejka_iii_iv_006.html","./osudy_dobreho_vojaka_svejka_iii_iv_007.html","./osudy_dobreho_vojaka_svejka_iii_iv_008.html","./osudy_dobreho_vojaka_svejka_iii_iv_009.html","./osudy_dobreho_vojaka_svejka_iii_iv_010.html","./osudy_dobreho_vojaka_svejka_iii_iv_011.html","./osudy_dobreho_vojaka_svejka_iii_iv_012.html","./osudy_dobreho_vojaka_svejka_iii_iv_013.html","./resources.html","./resources/image001_fmt.jpeg","./resources/image003_fmt.jpeg","./resources/image004_fmt.jpeg","./resources/index.xml","./resources/obalka_osudy_dobreho_v_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js","./style/style.min.css"]));
 }
 
 self.addEventListener('fetch', e => {
