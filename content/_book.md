@@ -26,22 +26,26 @@ readingOrder:
 tocBase:
   - link: osudy_dobreho_vojaka_svejka_iii_iv_005.html
     title: DÍL 3. SLAVNÝ VÝPRASK
-  - link: osudy_dobreho_vojaka_svejka_iii_iv_006.html
-    title: 1. Přes Uhry
-  - link: osudy_dobreho_vojaka_svejka_iii_iv_007.html
-    title: "2. V\_Budapešti"
-  - link: osudy_dobreho_vojaka_svejka_iii_iv_008.html
-    title: "3. Z\_Hatvanu na hranice Haliče"
-  - link: osudy_dobreho_vojaka_svejka_iii_iv_009.html
-    title: 4. Marschieren Marsch!
+    children:
+      - link: osudy_dobreho_vojaka_svejka_iii_iv_006.html
+        title: 1. Přes Uhry
+      - link: osudy_dobreho_vojaka_svejka_iii_iv_007.html
+        title: "2. V\_Budapešti"
+      - link: osudy_dobreho_vojaka_svejka_iii_iv_008.html
+        title: "3. Z\_Hatvanu na hranice Haliče"
+      - link: osudy_dobreho_vojaka_svejka_iii_iv_009.html
+        title: 4. Marschieren Marsch!
+    listType: plain
   - link: osudy_dobreho_vojaka_svejka_iii_iv_010.html
     title: DÍL 4. POKRAČOVÁNÍ SLAVNÉHO VÝPRASKU
-  - link: osudy_dobreho_vojaka_svejka_iii_iv_011.html
-    title: "1. Švejk v\_transportu ruských zajatců"
-  - link: osudy_dobreho_vojaka_svejka_iii_iv_012.html
-    title: 2. Duchovní útěcha
-  - link: osudy_dobreho_vojaka_svejka_iii_iv_013.html
-    title: "3. Švejk opět u\_své marškumpanie"
+    children:
+      - link: osudy_dobreho_vojaka_svejka_iii_iv_011.html
+        title: "1. Švejk v\_transportu ruských zajatců"
+      - link: osudy_dobreho_vojaka_svejka_iii_iv_012.html
+        title: 2. Duchovní útěcha
+      - link: osudy_dobreho_vojaka_svejka_iii_iv_013.html
+        title: "3. Švejk opět u\_své marškumpanie"
+    listType: plain
 static:
   - style
   - scripts
