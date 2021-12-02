@@ -9,8 +9,9 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-09-20T13:32:13.110Z'
   languageCode: cs
-chapters:
-  - osudy_dobreho_vojaka_svejka_iii_iv_001.html
+  publisherShort: mkp
+  edition: beletrie
+readingOrder:
   - osudy_dobreho_vojaka_svejka_iii_iv_002.html
   - osudy_dobreho_vojaka_svejka_iii_iv_005.html
   - osudy_dobreho_vojaka_svejka_iii_iv_006.html
@@ -21,6 +22,7 @@ chapters:
   - osudy_dobreho_vojaka_svejka_iii_iv_011.html
   - osudy_dobreho_vojaka_svejka_iii_iv_012.html
   - osudy_dobreho_vojaka_svejka_iii_iv_013.html
+  - colophon.html
 tocBase:
   - link: osudy_dobreho_vojaka_svejka_iii_iv_005.html
     title: DÍL 3. SLAVNÝ VÝPRASK
@@ -46,5 +48,6 @@ static:
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---

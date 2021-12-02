@@ -529,7 +529,7 @@ Krátce předtím byla mezi hejtmanem Ságnerem a snaživým kadetem Bieglerem 
 
 „Dejte mně pokoj se Švejkem,“ zakřičel hejtman Ságner, „nemyslete si, kadete Bieglere, že budete dělat nějaké intriky proti nadporučíkovi Lukášovi. My jsme tam Švejka poslali… Tak se na mne díváte, jako byste si myslel, že jsem si na vás zased… Ano, zased jsem si na vás, kadete Bieglere… Když neumíte respektovat svého představeného, snažíte se ho blamovat, tak vám udělám takovou vojnu, že vy, kadete Bieglere, si vzpomenete na stanici Ráb… Chvástat se svými teoretickými vědomostmi… Počkejte, až budeme na frontě… Až vám poručím jít na offizierspatrolu přes drátěné překážky… Váš raport? Ani ten raport jste mně nedal, když jste přišel… Ani teoreticky, kadete Bieglere…“
 
-„Poslušně hlásím, pane hejtmane,[1](#footnote-27518-1) že místo patnácti deka uherského salámu obdrželo mužstvo po dvou pohlednicích. Prosím, pane hejtmane…“
+„Poslušně hlásím, pane hejtmane,[^1] že místo patnácti deka uherského salámu obdrželo mužstvo po dvou pohlednicích. Prosím, pane hejtmane…“
 
 Kadet Biegler podal veliteli bataliónu dvě z těch pohlednic, které vydávalo ředitelství Vojenského válečného archívu ve Vídni, kde byl náčelníkem generál pěchoty Wojnowich. Na jedné straně byla karikatura ruského vojáka, ruského mužika se zarostlou bradou, kterého objímá kostlivec. Pod karikaturou byl text:
 
@@ -575,7 +575,7 @@ První telegram musel být odevzdán, třebas měl obsah velice překvapující,
 
 Jsem aktivní důstojník staré ženijní služby,“ dodal, „byl jsem při stavbě naší strategické dráhy v Haliči…
 
-Pane hejtmane,“ řekl po chvíli, „s námi starými chlapy od piky jen na front! Dnes je těch civilistů inženýrů od dráhy s jednoroční zkouškou dobrovolnickou jako psů v ministerstvu vojenství… Ostatně vy za čtvrt hodiny zas jedete dál… Pamatuji se jenom na to, že jsem jednou v kadetce v Praze vám pomáhal na hrazdu jako jeden ze staršího ročníku. Tenkrát jsme oba nesměli ven. Vy jste se pral s Němci ve třídě?[2](#footnote-27518-2) Tam byl s vámi také Lukáš. Vy jste bývali spolu nejlepší kamarádi. Když jsme sem dostali telegram se seznamem důstojníků maršbataliónu, kteří projíždějí stanicí, tak jsem si jasně vzpomněl… Je už to hezkých pár let… Kadet Lukáš býval mně tenkrát velice sympatickým…“
+Pane hejtmane,“ řekl po chvíli, „s námi starými chlapy od piky jen na front! Dnes je těch civilistů inženýrů od dráhy s jednoroční zkouškou dobrovolnickou jako psů v ministerstvu vojenství… Ostatně vy za čtvrt hodiny zas jedete dál… Pamatuji se jenom na to, že jsem jednou v kadetce v Praze vám pomáhal na hrazdu jako jeden ze staršího ročníku. Tenkrát jsme oba nesměli ven. Vy jste se pral s Němci ve třídě?[^2] Tam byl s vámi také Lukáš. Vy jste bývali spolu nejlepší kamarádi. Když jsme sem dostali telegram se seznamem důstojníků maršbataliónu, kteří projíždějí stanicí, tak jsem si jasně vzpomněl… Je už to hezkých pár let… Kadet Lukáš býval mně tenkrát velice sympatickým…“
 
 Na hejtmana Ságnera celá rozmluva učinila velice trapný dojem. Poznal velice dobře toho, který s ním mluvil a který vedl v kadetce opozici proti rakušáctví, což z nich později vytloukla snaha po kariéře. Nejvíc mu byla nepříjemnou zmínka o nadporučíkovi Lukášovi, který byl z jakéhokoliv důvodu proti němu _všude_ odstrkován.
 
@@ -589,7 +589,7 @@ Velitel nádraží podíval se na hodinky.
 
 „Myslil jsem, že mně něco řeknete, Ságnere.“
 
-„Tedy nazdar!“ odpověděl Ságner[3](#footnote-27518-3) a vyšel před budovu nádražního velitelství.
+„Tedy nazdar!“ odpověděl Ságner[^3] a vyšel před budovu nádražního velitelství.
 
   
 
@@ -603,7 +603,7 @@ Když hejtman Ságner přistoupil ke kadetovi Bieglerovi a prohlédl si všechn
 
 Kadet Biegler odpověděl s opravdovým nadšením, že každý ten nadpis znamená knihu, kterou sepíše. Kolik nadpisů, tolik knih.
 
-„Přál bych si, když padnu v boji, aby po mně zůstala památka, pane hejtmane. Mým vzorem je německý profesor Udo Kraft. Narodil se roku 1870, nyní ve světové válce přihlásil se dobrovolně a padl 22. srpna 1914 v Anloy. Před svou smrtí vydal knihu ‚Sebevýchova pro smrt za císaře‘.“[4](#footnote-27518-4)
+„Přál bych si, když padnu v boji, aby po mně zůstala památka, pane hejtmane. Mým vzorem je německý profesor Udo Kraft. Narodil se roku 1870, nyní ve světové válce přihlásil se dobrovolně a padl 22. srpna 1914 v Anloy. Před svou smrtí vydal knihu ‚Sebevýchova pro smrt za císaře‘.“[^4]
 
 Hejtman Ságner odvedl kadeta Bieglera k oknu.
 
@@ -863,7 +863,7 @@ chce sa jej vína,“_
 
   
 
-a on že se strašně urazil.[5](#footnote-27518-5)
+a on že se strašně urazil.[^5]
 
 „Z Budapešti mnoho neuvidíme,“ řekl hejtman Ságner, „vezou nás kolem. Dle maršrúty máme zde stát dvě hodiny.“
 
@@ -977,12 +977,12 @@ Byl to kadet Biegler.
 
 A tak se stal z kadeta Bieglera, nadšeného bojovníka, nositel cholerových bacilů.
 
-[1](#footnote-27518-1-backlink) Všechny rozmluvy důstojníků s důstojníky se přirozeně konají v jazyku německém.
+[^1]: Všechny rozmluvy důstojníků s důstojníky se přirozeně konají v jazyku německém.
 
-[2](#footnote-27518-2-backlink) V _německém_ rozhovoru, který ti dva vedli mezi sebou: „Sie haben sich damals auch mit den deutschen Mitschülern gerauft.“
+[^2]: V _německém_ rozhovoru, který ti dva vedli mezi sebou: „Sie haben sich damals auch mit den deutschen Mitschülern gerauft.“
 
-[3](#footnote-27518-3-backlink) V rozhovoru: „Also: Nazdar!“
+[^3]: V rozhovoru: „Also: Nazdar!“
 
-[4](#footnote-27518-4-backlink) Udo Kraft: „Selbsterziehung zum Tod für Kaiser“. C. F. Amelang’s Verlag, Leipzig.
+[^4]: Udo Kraft: „Selbsterziehung zum Tod für Kaiser“. C. F. Amelang’s Verlag, Leipzig.
 
-[5](#footnote-27518-5-backlink) Rozmluva hejtmana Ságnera s nadporučíkem Lukášem byla vedena v čes­kém jazyce.
+[^5]: Rozmluva hejtmana Ságnera s nadporučíkem Lukášem byla vedena v čes­kém jazyce.
