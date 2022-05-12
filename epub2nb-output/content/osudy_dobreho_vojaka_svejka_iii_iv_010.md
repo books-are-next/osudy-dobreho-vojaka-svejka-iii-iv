@@ -1,5 +1,6 @@
 ---
-title: DÍL 4. POKRAČOVÁNÍSLAVNÉHO VÝPRASKU
+title: DÍL 4\. POKRAČOVÁNÍSLAVNÉHO VÝPRASKU
+contentType: prose
 ---
 
 

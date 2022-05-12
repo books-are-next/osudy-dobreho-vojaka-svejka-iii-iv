@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Osudy dobrého vojáka Švejka za světové války III.–IV.
@@ -12,7 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - osudy_dobreho_vojaka_svejka_iii_iv_002.html
+  - promo.html
   - osudy_dobreho_vojaka_svejka_iii_iv_005.html
   - osudy_dobreho_vojaka_svejka_iii_iv_006.html
   - osudy_dobreho_vojaka_svejka_iii_iv_007.html

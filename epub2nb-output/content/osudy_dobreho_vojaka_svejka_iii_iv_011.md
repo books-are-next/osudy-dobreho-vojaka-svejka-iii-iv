@@ -1,5 +1,6 @@
 ---
-title: "1. Švejk v\_transportu ruských zajatců"
+title: "1\\. Švejk v\_transportu ruských zajatců"
+contentType: prose
 ---
 
 Když tedy Švejk, považovaný omylem v ruském plášti a ve furažce za ruského zajatce, uprchlého z vesnice před Felštýnem, psal své zoufalé výkřiky uhlem na stěny, nikdo si toho nevšímal, a když chtěl v Chyrówě na etapě všechno dopodrobna vysvětlit nějakému důstojníkovi, který šel právě okolo, když jim rozdávali kousky tvrdého kukuřičného chleba, tu ho jeden z maďarských vojáků, hlídající transport zajatců, uhodil kolbou do ramene s poznámkou:
