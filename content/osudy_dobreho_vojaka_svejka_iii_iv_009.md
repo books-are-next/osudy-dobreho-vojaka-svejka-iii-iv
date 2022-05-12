@@ -1,5 +1,6 @@
 ---
-title: 4. Marschieren Marsch!
+title: 4\. Marschieren Marsch!
+contentType: prose
 ---
 
 Objevilo se, když se přijelo do Sanoku, že vlastně na tom voze s polní kuchyní jedenáctky, kde prděl blahem nasycený Baloun, měli celkem pravdu, že bude večeře, a dokonce kromě večeře že tam bude rozdáván nějaký komisárek za všechny ty dny, kdy nedostal batalión ničeho. Objevilo se také, že vlastně v Sanoku, když vylezli z vagónů, nalézá se štáb železné brigády, ku které batalión 91. regimentu patřil podle svého křestního listu. Ačkoliv odtud bylo spojení železniční neporušeno pod Lvov i severně na Veliké Mosty, bylo vlastně záhadou, proč štáb východního úseku udělal tyto dispozice, aby železná brigáda se svým štábem soustřeďovala pochodové prapory sto padesát kilometrů v týlu, když šla v té době fronta od Brodů na Bug a podél řeky severně k Sokalu.

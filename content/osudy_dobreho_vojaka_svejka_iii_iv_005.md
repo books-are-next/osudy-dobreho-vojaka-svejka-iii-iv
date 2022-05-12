@@ -1,5 +1,6 @@
 ---
-title: DÍL 3. SLAVNÝ VÝPRASK
+title: DÍL 3\. SLAVNÝ VÝPRASK
+contentType: prose
 ---
 
 

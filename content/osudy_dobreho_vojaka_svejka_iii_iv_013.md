@@ -1,5 +1,6 @@
 ---
-title: "3. Švejk opět u\_své marškumpanie"
+title: "3\\. Švejk opět u\_své marškumpanie"
+contentType: prose
 ---
 
 Onen major, který dělal auditora při včerejším dopoledním líčení se Švejkem, byla tatáž figura, která večer u generála pila na bratrství s polním kurátem a klímala.
