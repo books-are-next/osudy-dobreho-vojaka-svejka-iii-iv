@@ -3,6 +3,8 @@ title: "2\\. V\_Budapešti"
 contentType: prose
 ---
 
+<section>
+
 Matušič přinesl na vojenském nádraží v Budapešti hejtmanovi Ságnerovi z velitelství telegram, který poslal nešťastný velitel brigády dopravený do sanatoria. Byl téhož obsahu, nešifrován, jako na poslední stanici: „Rychle uvařit menáž a pochodem na Sokal.“ K tomu bylo připojeno: „Vozatajstvo začíslit u východní skupiny. Výzvědná služba se zrušuje. 13. pochodový prapor staví most přes řeku Bug. Bližší v novinách.“
 
 Hejtman Ságner odebral se ihned na velitelství nádraží. Uvítal ho malý tlustý důstojník s přátelským úsměvem.
@@ -83,7 +85,9 @@ Když se všechno mužstvo pochodového praporu shromáždilo, bylo postaveno do
 
 Potom bylo obvyklé „Dreimal hoch!“ a vojsko nasedlo opět do vlaku, jaksi zaraženo. Místo patnácti deka ementálského sýra mají na krku válku s Itálií.
 
-  
+</section>
+
+<section>
 
 Ve vagóně, kde seděl Švejk s účetním šikovatelem Vaňkem, telefonistou Chodounským, Balounem a kuchařem Jurajdou, rozpředl se zajímavý rozhovor o zasáhnutí Itálie do války.
 
@@ -123,7 +127,9 @@ Baloun mezitím usilovně o něčem přemýšlel, až nakonec otázal se se str
 
 Tím skončila v tomto vagóně definitivně debata o Itálii.
 
-  
+</section>
+
+<section>
 
 Ve štábním vagóně rozhovor o nově utvořených válečných poměrech zasáhnutím Itálie do války byl by býval jistě velice fádní, když zde nebylo již slavného vojenského teoretika kadeta Bieglera, kdyby byl jaksi ho nezastoupil poručík Dub od třetí kumpanie.
 
@@ -145,7 +151,9 @@ Odmlčel se a čekal patrně, že ostatní ve štábním vagóně též budou m
 
 Tím byla zakončena ve štábním vagóně debata o Itálii.
 
-  
+</section>
+
+<section>
 
 Kromě těch, kteří seděli vzadu, bataliónní ordonanc Matušič a sluha hejtmana Ságnera Batzer dívali se na vojnu s Itálií ze stanoviska čistě praktického, poněvadž, kdysi dávno před léty, ještě za aktivní služby, zúčastnili se oba nějakých manévrů v jižním Tyrolsku.
 
@@ -159,7 +167,9 @@ Kromě těch, kteří seděli vzadu, bataliónní ordonanc Matušič a sluha he
 
 Tím i zde skončil rozhovor o Itálii…
 
-  
+</section>
+
+<section>
 
 V ostatních vagónech, poněvadž vlak stál již přes dvě hodiny na nádraží, šel jeden hlas, že asi vlak obrátí a pošlou ho na Itálii.
 
@@ -303,7 +313,9 @@ Ten major Sojka chodil pořád po těch kuchyních, namouduši, věřte mně, vy
 
 Tak jsem přišel o celou zásobu, a věřte mně, že ten major mně přinášel, jak se objevil, jen samou smůlu. On měl pomalu tak čich vyvinutý, že hned věděl o všech mých zásobách. Jednou jsem ušetřil na manšaftu hovězí játra a chtěli jsme si je dusit, když vtom šel pod kavalec a vytáhl je. Řekl jsem mu na jeho řvaní, že játra ta jsou určena k zakopání, že dopoledne to zjistil jeden podkovář od artilerie, který má veterinářský kurs. Major sebral maníka od trénu a potom s tím maníkem vařili si játra nahoře pod skalami v kotlíkách, a to byl také jeho osud, že Rusové viděli ten oheň, práskli do majora, do kotlíku osmnáctkou. Potom jsme se tam šli podívat, a člověk nerozeznal, jestli po těch skalách se válejí játra hovězí nebo játra pana majora.“
 
-  
+</section>
+
+<section>
 
 Potom přišla zpráva, že se pojede ještě až za čtyři hodiny. Trať nahoře na Hatvan že je zastavena vlaky s raněnými. Také se rozšiřovalo po nádraží, že u Jágru srazil se jeden sanitní vlak s nemocnými a raněnými s vlakem vezoucím dělostřelectvo. Z Pešti že tam jedou pomocné vlaky.
 
@@ -417,7 +429,9 @@ Velitel nádraží si vzdychl. Generál si nevzpomněl, že má platit za biftek
 
 Zato však všechny vojenské inspekce projíždějící touto hlavní stanicí v Pešti říkaly, že se tam u velitele nádraží dobře pije a jí.
 
-  
+</section>
+
+<section>
 
 Ráno stál ještě ešalon na nádraží, byl budíček, vojáci se myli u pump z esšálků, generál se svým vlakem ještě neodjel a šel revidovat osobně latríny, kam chodili dle denního rozkazu hejtmana Ságnera po bataliónu „Schwarmweise unter Kommando der Schwarm­kommandanten“, aby měl pan generálmajor radost. Aby pak měl také radost poručík Dub, sdělil mu hejtman Ságner, že má on dnes inspekci.
 
@@ -433,7 +447,9 @@ Bylo v tom všem vidět vojenskou železnou disciplínu, organi­zovanost.
 
 Na levém křídle seděl Švejk, který se sem připletl, a se zájmem si přečítal útržek papírku, vytrženého bůhví z jakého románu Růženy Jesenské:
 
-  
+</section>
+
+<section>
 
 _…dejším penzionátě bohužel dámy_
 
@@ -453,7 +469,9 @@ _se lepšila, neb nechtěla tak úspěšně_
 
 _nic nebylo pro mladého Křičku_
 
-  
+</section>
+
+<section>
 
 Když odtrhl oči od útržku, podíval se mimoděk k východu latríny a podivil se. Tam stál v plné parádě pan generálmajor od včerejška z noci se svým adjutantem a vedle nich poručík Dub horlivě jim cosi vykládaje.
 
@@ -559,7 +577,9 @@ Uviděv nadporučíka Lukáše, Švejk počal velevýznamně mrkat.
 
 Četař chtěl mluvit s velitelem 11. marškumpanie. Nadporučík Lukáš převzal od něho spis velitelství stanice, kde četl zblednuv:
 
-  
+</section>
+
+<section>
 
 _Veliteli 11. marškumpanie N pochodového praporu 91. pěšího pluku k dalšímu řízení._
 
@@ -629,7 +649,9 @@ Tak mě poslali k vám a ještě se tam na mne rozkřikl, když jsem ho nevid�
 
 Švejk zasalutoval před okny vagónu a odcházel.
 
-  
+</section>
+
+<section>
 
 Baloun chystal se právě po šťastně skončeném duševním boji, že otevře přece jen krabičku se sardinkami svého nadporučíka, když se objevil Švejk se slepicí, což vzbudilo přirozený rozruch u všech přítomných ve vagóně, a všichni se na něho tak podívali, jako by chtěli s určitostí říct: „Kdes to ukrad?“
 
@@ -751,7 +773,9 @@ A když Švejk se vrátil do svého vagónu, na otázku, kde byl tak dlouho, od
 
 Vzadu se ve vagónu třásl Baloun. Sežral za nepřítomnosti Švejkovy, když se část slepice již uvařila, půl Švejkovy porce.
 
-  
+</section>
+
+<section>
 
 Před odjezdem vlaku dohonil ešalon smíšený vojenský vlak s různými částmi. Byli to opozdilci nebo vojáci ze špitálů, dohánějící své části, i jiná podezřelá individua, vracející se z komandýrovek nebo z arestů.
 
@@ -769,29 +793,39 @@ Jednoroční dobrovolník Marek dal si ruku na srdce.
 
 „Budete se nalézati u štábu bataliónu, jednoroční dobrovolníku, budete si všímati, kdo byl navržen k vyznamenání, zaznamenávat – ovšem dle našich poznámek – pochody, které obzvláště by upozornily na vynikající bojechtivost a ocelovou disciplínu bataliónu. Není to tak lehké, jednoroční dobrovolníku, ale doufám, že máte tolik pozorovacího talentu, abyste, dostávaje ode mne určité direktivy, náš batalión povznesl nad ostatní skupiny. Odesílám telegram na pluk, že jsem vás jmenoval batalionsgeschichtsschreibrem. Hlaste se u účetního šikovatele Vaňka od 11. kumpanie, aby vás tam umístil ve vagóně. Tam je tak ještě nejvíc místa, a řekněte mu, aby sem ke mně přišel. Ovšem začíslen budete u štábu bataliónu. To se provede rozkazem po bataliónu.“
 
-  
+</section>
+
+<section>
 
 Kuchař okultista spal. Baloun se stále třásl, poněvadž už otevřel i nadporučíkovy sardinky, účetní šikovatel Vaněk šel k hejtmanovi Ságnerovi a telegrafista Chodounský splašil někde na nádraží tajně lahvičku borovičky, vypil ji, byl nyní v sentimentální náladě a zpíval:
 
-  
+</section>
+
+<section>
 
 _„Dokud v sladkých dnech jsem bloudil,  
 věrným se mně všechno zdálo,  
 tu dýchala má hruď vírou  
 a mé oko láskou plálo._
 
-  
+</section>
+
+<section>
 
 _Však když zřel jsem, celá země  
 že je zrádná jako šakal,  
 zvadla víra, zvadla láska  
 a já poprvé jsem plakal.“_
 
-  
+</section>
+
+<section>
 
 Potom se zvedl, šel ke stolu účetního šikovatele Vaňka a napsal na kus papíru velkými písmeny:
 
-  
+</section>
+
+<section>
 
 _Žádám tímto zdvořile, abych byl jmenován a befedrován na batalionshornistu._
 
@@ -807,21 +841,27 @@ Když se tedy Vaněk vrátil, vzal stranou jednoročního dobrovolníka Marka a�
 
 Sotva to dořekl, Chodounský se přivrávoral a padl účetnímu šikovateli do náruče, vzlykaje opilým hlasem, což snad měl býti zpěv:
 
-  
+</section>
+
+<section>
 
 _„Když mne všechno opustilo,  
 já k tvým prsům hlavu sklonil,  
 na tvém vřelém, čistém srdci  
 bolestně jsem slzy ronil._
 
-  
+</section>
+
+<section>
 
 _A tvým okem zaplál oheň  
 jako hvězda třpytem lesklým,  
 korálová ústa šeptla:  
 Já tě nikdy neopustím._
 
-  
+</section>
+
+<section>
 
 My se nikdy nevopustíme,“ hulákal Chodounský, „co uslyším u telefonu, hned vám řeknu. Vyseru se na přísahu.“
 
@@ -894,3 +934,5 @@ A opravdu, Baloun ve svém největším hoři hledal spásu v drobných kulič
 „Ten je taky z Klokot,“ řekl smutně Baloun. „Než mně ho přinesly, zařvala dvě housata, ale to není žádný maso, to je měkkotina.“
 
 Za chvíli nato přišel rozkaz po celém vlaku, že se za čtvrt hodiny pojede. Poněvadž tomu nikdo nechtěl věřit, stalo se to, že se, přes veškerou ostražitost, někdo leckams zatoulal. Když se vlak hnul, scházelo osmnáct maníků, mezi nimi šikovatel Nasáklo od 12. marškumpanie, který se ještě, když vlak už dávno zmizel za Išatarčou, hádal v malém akátovém lesíku za nádražím v nehlubokém úvalu s nějakou běhnou, která chtěla na něm pět korun, kdežto on navrhoval odměnu za vykonanou již službu korunu nebo pár facek, ke kterémuž poslednímu vyrovnání pak nakonec také došlo s takovou vehemencí, že na její řev počali se tam sbíhat z nádraží.
+
+</section>

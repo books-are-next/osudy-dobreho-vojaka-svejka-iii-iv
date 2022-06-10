@@ -3,6 +3,8 @@ title: 2\. Duchovní útěcha
 contentType: prose
 ---
 
+<section>
+
 Polní kurát Martinec v pravém slova smyslu nepřišel k Švejkovi, ale veplul k němu jako baletka na jevišti. Nebeské touhy a láhev starého gumpoldskirchen činily ho v této dojemné chvíli lehkým jako pírko. Zdálo se mu, že se přibližuje v této vážné a posvátné chvíli blíže k bohu, zatímco se přibližoval k Švejkovi.
 
 Zavřeli za ním dveře, zanechali oba o samotě a on nadšeně řekl k Švejkovi, který seděl na kavalci:
@@ -91,7 +93,9 @@ Kurátovi napadlo, že má co dělat se šílencem, proto koktaje: „Ano, milý
 
 „Teď ho vedou asi na magorku,“ pomyslil si Švejk, seskočil z pryčny, a procházeje se vojenským krokem, zpíval si:
 
-  
+</section>
+
+<section>
 
 _„Ten prstýnek, cos mi dala,  
 ten já nosit nebudu.  
@@ -99,11 +103,15 @@ Prachsakra, pročpak ne.
 Až já přijdu k svému regimentu,  
 do kvéru ho nabiju…“_
 
-  
+</section>
+
+<section>
 
 Polního kuráta za několik minut nato ohlašovali u generála Finka.
 
-  
+</section>
+
+<section>
 
 U generála bylo opět jedno velké shromáždění, ve kterém vynikající úlohu hrály dvě příjemné dámy, víno a likéry.
 
@@ -144,3 +152,5 @@ Zdálo se mu, že ve dne vykonává funkce polního kuráta a večer že je vr�
 Přicházely na něho ze všech stran ke generálovi žaloby, že místo blondýny přivedl hostovi brunetu, místo rozvedené paní s inteligencí že dodal vdovu bez inteligence.
 
 Probudil se ráno zpocený jako myš, měl žaludek jako na vodě a připadalo mu, že ten jeho farář na Moravě je proti němu anděl.
+
+</section>

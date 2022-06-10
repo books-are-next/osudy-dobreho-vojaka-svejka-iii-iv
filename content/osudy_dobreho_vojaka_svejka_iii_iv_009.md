@@ -3,6 +3,8 @@ title: 4\. Marschieren Marsch!
 contentType: prose
 ---
 
+<section>
+
 Objevilo se, když se přijelo do Sanoku, že vlastně na tom voze s polní kuchyní jedenáctky, kde prděl blahem nasycený Baloun, měli celkem pravdu, že bude večeře, a dokonce kromě večeře že tam bude rozdáván nějaký komisárek za všechny ty dny, kdy nedostal batalión ničeho. Objevilo se také, že vlastně v Sanoku, když vylezli z vagónů, nalézá se štáb železné brigády, ku které batalión 91. regimentu patřil podle svého křestního listu. Ačkoliv odtud bylo spojení železniční neporušeno pod Lvov i severně na Veliké Mosty, bylo vlastně záhadou, proč štáb východního úseku udělal tyto dispozice, aby železná brigáda se svým štábem soustřeďovala pochodové prapory sto padesát kilometrů v týlu, když šla v té době fronta od Brodů na Bug a podél řeky severně k Sokalu.
 
 Tato velice zajímavá strategická otázka byla strašně jednoduchým způsobem rozluštěna, když šel hejtman Ságner v Sanoku hlásit do štábu brigády o přibytí maršbataliónu.
@@ -159,7 +161,9 @@ Kunert byl takové dobré hovado, že přišel skutečně za čtvrt hodiny, a k
 
 Když to za chvíli ukazoval Švejkovi, řekl mu Švejk, aby si jen dobře ten papírek schoval, že takových dokumentů od vojenských pánů si má každý vážit, to že dřív za aktivní vojny nebylo, aby si dopisoval důstojník se svým sluhou a říkal mu pane.
 
-  
+</section>
+
+<section>
 
 Když byly vykonány přípravy k tomu, aby se vyrazilo dle daných dispozic, brigádní generál, kterého vystrnadil tak pěkně hannoverský plukovník, dal shromáždit celý batalión do obvyklého čtverce a měl k němu řeč. Ten muž totiž velice rád řečnil, mlel páté přes deváté, a když už neměl dál co říct, vzpomněl si ještě na polní poštu:
 
@@ -191,18 +195,24 @@ Když jsme před lety stáli lágrem v Mníšku, tak jsem chodil tancovat do St
 
 A jako na potvrzení toho ovsa kdesi vpředu doznívaly sebrané hlasy vojáků kumpanie v pokračování písně, s kterou šly už české regimenty krvácet za Rakousko k Solferinu:
 
-  
+</section>
+
+<section>
 
 _„A když bylo půl noci,  
 voves z pytle vyskočí,  
 župajdijá, župajdá,  
 každá holka dá!“_
 
-  
+</section>
+
+<section>
 
 Do čehož opět vpadli druzí:
 
-  
+</section>
+
+<section>
 
 _„Dá, a dá, a dá,  
 a proč by nedala,  
@@ -213,7 +223,9 @@ každá holka dá!
 A dá, a dá, a dá,  
 a proč by nedala…“_
 
-  
+</section>
+
+<section>
 
 Potom počali Němci zpívat tutéž píseň německy.
 
@@ -235,13 +247,17 @@ Nadporučík Lukáš, projížděje kolem, vybízel je zcela vlídně, aby jen v
 
 Mezitím se poručík Dub vzpamatoval neustálým třesením na sanitní dvojkolce. Nevzpamatoval se sice ještě úplně, ale mohl se již zvednout a vyhnouti se z dvojkolky a volat na štáb kumpanie, který se volně pohyboval kolem, poněvadž si všichni, počínaje Balounem a konče Chodounským, dali svoje baťohy do dvojkolky. Jedině Švejk šel neohroženě kupředu i s baťohem, maje ručnici po dragounsku přes prsa na řemen, kouřil z dýmky a zpíval si do pochodu:
 
-  
+</section>
+
+<section>
 
 _„Když jsme táhli k Jaroměři,  
 ať si nám to, kdo chce, věří,  
 přišli jsme tam asi právě k večeři…“_
 
-  
+</section>
+
+<section>
 
 Více než pět set kroků před poručíkem Dubem zvedaly se po silnici kotouče prachu, z něhož vynořovaly se postavy vojáků; poručík Dub, kterému se opět vrátilo nadšení, naklonil hlavu z dvojkolky a počal řvát do silničního prachu:
 
@@ -317,7 +333,9 @@ Džbán se mu nakonec podařilo ukrást panu plebánovi a do džbánu načerpal
 
 Poručík Dub vypil však celý džbán vody beze všech dalších následků, čímž potvrdil přísloví „Dobré prase všechno snese“.
 
-  
+</section>
+
+<section>
 
 Všichni se velice mýlili, když se domnívali, že v Turowé-Wolské budou snad nocovati.
 
@@ -329,93 +347,129 @@ Batalión totiž už nebyl chudobný. Brigádní intendantstvo v Sa­noku vypla
 
 Zatímco se všichni čtyři vypravili na cestu, objevil se u kumpanie pan místní plebán a rozdával vojákům dle jich národnosti lísteček s „Lurdskou písní“ ve všech jazycích. Měl těch písní balík, který mu zde zanechal na rozdávání procházejícím vojenským oddílům nějaký vysoký vojenský církevní hodnostář, projíždějící se zpustošenou Haličí na automobilu s nějakými děvkami.
 
-  
+</section>
+
+<section>
 
 _Kde v údolí ku řece hora má sklon,  
 všem poselství andělské zvěstuje zvon.  
 Ave, ave, ave, Maria! – Ave, ave, ave, Maria!_
 
-  
+</section>
+
+<section>
 
 _Aj, Bernardu, dívenku, nebeský duch  
 tam ku břehu provodí v zelený luh. – Ave!_
 
-  
+</section>
+
+<section>
 
 _I spatřila na skále hvězdovou zář,  
 v ní postavu velebnou, přesvatou tvář. – Ave!_
 
-  
+</section>
+
+<section>
 
 _Ji rozmile zdobí šat liliový  
 a prostinký světlý pás oblakový. – Ave!_
 
-  
+</section>
+
+<section>
 
 _A na rukou sepjatých růženec má  
 ta Paní a Královna přemilostná. – Ave!_
 
-  
+</section>
+
+<section>
 
 _Aj, Bernardě mění se nevinná tvář,  
 tvář krášlí jí podivná nadzemská zář. – Ave!_
 
-  
+</section>
+
+<section>
 
 _Již klečí a modlí se, Vládkyni zří,  
 řeč nebeskou Královna promlouvá s ní. – Ave!_
 
-  
+</section>
+
+<section>
 
 _„Věz, dítě, já bez hříchu počala jsem,  
 já ochranou přemocnou chci býti všem! – Ave!_
 
-  
+</section>
+
+<section>
 
 _Sem v průvodech putuj můj nábožný lid!  
 Mně vzdávej jen poctu a hledej svůj klid. – Ave!_
 
-  
+</section>
+
+<section>
 
 _Buď svědkem zde národům z mramoru chrám,  
 že na tomto místě já stánek svůj mám. – Ave!_
 
-  
+</section>
+
+<section>
 
 _Ten pramen však, který se rozproudil zde,  
 tenť lásky mé zárukou k sobě vás zve.“– Ave!_
 
-  
+</section>
+
+<section>
 
 _Ó sláva ti, údolí přemilostné,  
 to obydlí Matičky přeradostné. – Ave!_
 
-  
+</section>
+
+<section>
 
 _Tam ve skále zázračná jeskyně Tvá,  
 ráj dalas nám, Královno dobrotivá. – Ave!_
 
-  
+</section>
+
+<section>
 
 _Co nastal ten přeslavný, radostný den,  
 ctí Tebe tam průvody mužův i žen. – Ave!_
 
-  
+</section>
+
+<section>
 
 _Ty chtělas mít zástupy ctitelů svých,  
 viz také nás, prosících za časů zlých. – Ave!_
 
-  
+</section>
+
+<section>
 
 _Ó hvězdo Ty spasná, Ty před námi choď,  
 Ty ke trůnu božímu věrné nás voď! – Ave!_
 
-  
+</section>
+
+<section>
 
 _Ó přesvatá Panno, Ty v lásce nás měj  
 a mateřskou milost svou dítkám svým dej!_
 
-  
+</section>
+
+<section>
 
 V Turowé-Wolské bylo mnoho latrín a všude po latrínách válely se papírky s „Lurdskou písní“.
 
@@ -593,13 +647,17 @@ Sedl si opět do starého křesla, kde v každé štěrbině bylo tisíce vají
 
 Dal se do jemného chrápání a neslyšel již, jak Švejk prohodil verš z písně za zemřelé:
 
-  
+</section>
+
+<section>
 
 _„Marii jsi hřích sňal mile,  
 lotru dal jsi dojít cíle,  
 i mne spasit Tvá buď píle.“_
 
-  
+</section>
+
+<section>
 
 Nato bylo zjištěno účetním šikovatelem Vaňkem, že znamenitá kráva se musí vařit ještě dvě hodiny v důstojnické kuchyni, že není ani řeči o nějakém bifteku a že místo bifteku se bude dělat guláš.
 
@@ -611,7 +669,9 @@ Bylo usneseno, že než se zatroubí k mináži, mužstvo si schrupne, poněvad
 
 V kuchyni seděl před rozsvíceným oharkem kostelní svíce telefonista Chodounský a psal domů psaní do zásoby, aby se tím nemusel namáhat, až konečně budou mít určené číslo polní pošty. Psal:
 
-  
+</section>
+
+<section>
 
 _Milá a drahá ženo, nejdražší Boženko!_
 
@@ -621,11 +681,15 @@ _Tvůj Tonouš_
 
 _N. B. Nezapomeň, že jsem Ti dal svoje jméno!_
 
-  
+</section>
+
+<section>
 
 Pokračoval ve psaní dopisů do zásoby:
 
-  
+</section>
+
+<section>
 
 _Má nejmilejší Boženko!_
 
@@ -675,7 +739,9 @@ Nadporučík Lukáš, který se zatím opět natáhl na starou pohovku, řekl, �
 
 Švejk odcházel a za ním z rohu jako stín po špičkách vyšel Baloun…
 
-  
+</section>
+
+<section>
 
 Když vyrazili ráno z Liskowiec na Starasol, Sambor, vezli s sebou v polní kuchyni nešťastnou krávu, která se ještě neuvařila. Bylo usneseno, že ji budou vařit po cestě a sní se, až bude odpočinek na půl cestě z Liskowiec na Starasol.
 
@@ -807,6 +873,10 @@ Odpůldne Švejk došel k malému rybníku, kde se setkal s jedním uprchlým 
 
 Všechno to se zběhlo tak rychle, že teprve druhý den Švejk si uvědomil situaci a napsal na bílou zeď školní světnice, kde ubytovali část zajatců, kouskem oharku ze dříví:
 
-  
+</section>
+
+<section>
 
 _Zde spal Josef Švejk z Prahy, kompanieordonanc 11. marškumpačky 91. regimentu, který jako kvartýrmachr upadl omylem do rakouského zajetí pod Felštýnem._
+
+</section>

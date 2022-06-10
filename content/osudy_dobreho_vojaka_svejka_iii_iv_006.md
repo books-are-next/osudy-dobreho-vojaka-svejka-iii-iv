@@ -3,6 +3,8 @@ title: 1\. Přes Uhry
 contentType: prose
 ---
 
+<section>
+
 Konečně se všichni dočkali toho okamžiku, kdy je nacpali do vagónů v poměru 42 mužů k 8 koním. Koním ovšem se jelo pohodlněji než mužstvu, poněvadž mohli spát vstoje, ale to nevadilo. Vojenský vlak vezl do Haliče opět novou skupinu lidí hnaných na jatky.
 
 Celkem však se všem těm tvorům přece jen ulehčilo; bylo to něco již určitého, když se vlak hnul, ale předtím to byla jen trapná nejistota, panika, zdali se pojede již dnes, nebo zítra, či pozítří. Některým bylo jako odsouzeným k smrti, kteří očekávají se strachem, kdy si pro ně přijde kat. A potom nastane uklidnění, že už to bude odbyto.
@@ -45,7 +47,9 @@ Potom Švejk počal mluvit o známých rozkazech, které jim byly přečteny p�
 
 Oba rozkazy byly jim přečteny třaslavým hlasem a zněly v českém překladu:
 
-  
+</section>
+
+<section>
 
 _Armádní rozkaz ze dne 17. dubna 1915:_
 
@@ -109,13 +113,17 @@ Zvedl se a šel kibicovat k tahanému mariáši.
 
 Kuchař okultista mezitím dokončil své psaní a přečítal si ho zřejmě uspokojen, jak to pěkně složil kvůli vojenské cenzuře.
 
-  
+</section>
+
+<section>
 
 _Drahá ženo!_
 
 _Až dostaneš tyto řádky, budu se nalézati již po několik dní ve vlaku, poněvadž odjíždíme na frontu. Netěší mě to příliš, poněvadž ve vlaku musím zahálet a nemohu být prospěšným, neboť se nevaří v naší důstojnické kuchyni a jídlo se dostane na staničních etapách. Rád bych býval našim pánům důstojníkům uvařil mezi jízdou Maďarskem segedinský guláš, ale sklaplo mně. Snad až přijedeme do Haliče, budu mít příležitost uvařit šoule, pravé haličské, husu dušenou v kroupách nebo v rýži. Věř mně, drahá Helenko, že se opravdu snažím co nejvíce zpříjemnit našim pánům důstojníkům jich starosti a námahy. Byl jsem od pluku přeložen k maršbataliónu, což bylo mým nej­vroucnějším přáním, abych mohl, byť i ze skromných prostředků, důstojnickou polní kuchyni na frontě uvésti v nejlepší koleje. Pamatuješ se, drahá Helenko, žes mně při narukování k pluku přála, abych dostal hodné představené. Tvé přání se splnilo, a nejenže si ani v nejmenším nemohu naříkat, naopak všichni páni důstojníci jsou našimi pravými přáteli, a zejména ke mně se chovají jako otec. Co nejdříve Ti oznámím číslo naší polní pošty…_
 
-  
+</section>
+
+<section>
 
 Toto psaní bylo vynuceno okolnostmi, když kuchař okultista nadobro si rozlil ocet s plukovníkem Schrödrem, který mu dosud držel palec, ale na kterého se při večeři na rozloučenou s důstojníky maršbataliónu opět, nešťastnou náhodou, nedostala porce rolované telecí ledviny, a plukovník Schröder ho poslal s marškumpačkou do pole, svěřiv důstojnickou kuchyni pluku nějakému nešťastnému učiteli z ústavu slepců na Klárově.
 
@@ -161,7 +169,9 @@ Vlak zastavil se na stanici Mošon. Byl již večer a nikoho nepouštěli z va
 
 Když se hnuli, ozval se z jednoho vagónu silný hlas, jako by chtěl přehlušit rachocení vlaku. Nějaký voják z Kašperských Hor v nábožné náladě večera opěval hrozným řevem tichou noc, která se blížila k uherským rovinám:
 
-  
+</section>
+
+<section>
 
 _„Gute Nacht! Gute Nacht!  
 Allen Müden sei’s gebracht.  
@@ -170,7 +180,9 @@ ruhen alle fleiß’gen Hände,
 bis der Morgen ist erwacht.  
 Gute Nacht! Gute Nacht!“_
 
-  
+</section>
+
+<section>
 
 „Halt Maul, du Elender,“ přerušil někdo sentimentálního zpěváka, který umlkl.
 
@@ -190,7 +202,9 @@ A na tváři všech bylo vidět takovou spokojenost, jako kdyby vojny nebylo a�
 
 A zatímco zde přebíjeli krále kočičákem, daleko na frontě králové mezi sebou přebíjeli se svými poddanými.
 
-  
+</section>
+
+<section>
 
 Ve štábním vagóně, kde seděli důstojníci pochodového praporu, panovalo ze začátku jízdy podivné ticho. Většina důstojníků byla zahloubána do malé knihy v plátěné vazbě s nadpisem „Die Sünden der Väter. Novelle von Ludwig Ganghofer“ a všichni byli současně zabráni do čtení stránky 161. Hejtman Ságner, bataliónní velitel, stál u okna, v ruce držel tutéž knížku, maje ji taktéž otevřenu na stránce 161.
 
@@ -262,13 +276,17 @@ Snaživý kadet Biegler významně zakašlal.
 
 „Dovoluji si,“ řekl, „pane hejtmane, upozorniti na knihu Kerick­hoffovu o vojenském šifrování. Knihu tu může si každý objednat ve vydavatelstvu Vojenského naučného slovníku. Jest tam důkladně popsána, pane hejtmane, metoda, o které jste nám vypravoval. Vynálezcem jejím je plukovník Kircher, sloužící za Napoleona I. ve vojsku saském. Kircherovo šifrování slovy, pane hejtmane. Každé slovo depeše se vykládá na protější stránce klíče. Metoda ta zdokonalena nadporučíkem Fleissnerem v knize ‚Handbuch der militärischen Kryptographie‘, kterou si každý může koupit v nakladatelství Vojenské akademie ve Vídeňském Novém Městě. Prosím, pane hejtmane.“ Kadet Biegler sáhl do ručního kufříku a vytáhl knížku, o které mluvil, a pokračoval: „Fleissner udává týž příklad, prosím račte se všichni přesvědčit. Týž příklad, jak jsme slyšeli:
 
-  
+</section>
+
+<section>
 
 _Depeše: Auf der Kote 228, Maschinengewehrfeuer linksrichten._
 
 _Klíč: Ludwig Ganghofer: ‚Die Sünden der Väter‘. Zweiter Band._
 
-  
+</section>
+
+<section>
 
 A podívejte se prosím dále: Šifra ‚Sache mit uns das wir aufsehen in die versprachen die Martha…‘ a tak dále. Právě jak jsme před chvílí slyšeli.“
 
@@ -306,7 +324,9 @@ Hejtman Ságner mezitím počal ze zoufalství číst nešťastnou knihu „Hř�
 
 Nadporučík Lukáš první vyřítil se ze štábního vagónu a šel k vagónu, kde nalézal se Švejk.
 
-  
+</section>
+
+<section>
 
 Švejk i ostatní již dávno přestali hrát karty a sluha nadporučíka Lukáše Baloun měl již takový hlad, že se počal bouřit proti vojenské vrchnosti a vykládat, že ví velice dobře, jak páni oficíři si dávají do mouly. Je to horší, než když byla robota. Dřív že tomu tak na vojně nebylo. To že se ještě, jak jeho dědeček říkává doma na výměnku, oficíři za šestašedesáté války dělili s vojáky o slepice a chleba. Jeho nářku nebylo konce, až konečně Švejk uznal za dobré pochválit stav vojenský za nynější války.
 
@@ -380,7 +400,9 @@ Nadporučík Lukáš prošel se po trati, přičemž si pomyslil:
 
 Švejk lezl vážně do svého vagónu. Měl sám před sebou úctu. To se každý den nestane, aby provedl něco tak hrozného, že se nikdy nesmí dozvědít, co to bylo.
 
-  
+</section>
+
+<section>
 
 „Pane rechnungsfeldvébl,“ řekl Švejk, když seděl na svém místě, „pan obrlajtnant Lukáš zdá se mně dnes být ve velmi dobrý náladě. Dává vám po mně vzkazovat, že jste mezek kvůli tomu, že už třikrát vás žádal, abyste mu udal pravý stav manšaftu.“
 
@@ -442,11 +464,15 @@ Ale když se najed, povídá: ‚Tohle mně neříkej, že je to jedna porce. Na
 
 Místo odpovědi se nešťastný Baloun zakuckal. Otevřel si totiž kufřík nadporučíka Lukáše a cpal se jeho poslední houskou…
 
-  
+</section>
+
+<section>
 
 Nádražím bez zastávky projel jiný vojenský vlak odshora obsazený deutschmajstry, které posílali na srbský front. Ještě se nevzpamatovali ze svého nadšení při loučení s Vídní a řvali bez oddechu od Vídně až sem:
 
-  
+</section>
+
+<section>
 
 _„Prinz Eugenius, der edle Ritter,  
 wollt dem Kaiser wiedrum kriegen  
@@ -455,11 +481,15 @@ Er ließ schlagen einen Brucken,
 daß man kunnt’ hinüberrucken  
 mit der Armee wohl für die Stadt.“_
 
-  
+</section>
+
+<section>
 
 Nějaký kaprál s výbojně nakrouceným knírem, nahýbaje se ven, opřen jsa lokty o mužstvo, které klátilo ven z vagónu vystrčenýma nohama, dával takt a hulákal na celé kolo:
 
-  
+</section>
+
+<section>
 
 _„Als der Brucken war geschlagen,  
 daß man kunnt’ mit Stuck und Wagen  
@@ -467,11 +497,15 @@ frei passier’n den Donaufluß,
 bei Semlin schlug man das Lager,  
 alle Serben zu verjagen…“_
 
-  
+</section>
+
+<section>
 
 Vtom však ztratil rovnováhu a vylítl z vagónu a plnou silou narazil v letu břichem na páku u výhybky, na které zůstal nabodnut viset, zatímco vlak jel dál a v zadních vagónech zpívali zase jinou.
 
-  
+</section>
+
+<section>
 
 _„Graf Radetzky, edler Degen  
 schwur’s des Kaisers Feind zu fegen  
@@ -480,7 +514,9 @@ In Verona langes Hoffen,
 als mehr Truppen eingetroffen,  
 fühlt und rührt der Held sich frei…“_
 
-  
+</section>
+
+<section>
 
 Nabodnutý na hloupou výhybku, bojechtivý kaprál byl již mrtev a netrvalo dlouho, stál již u něho na stráži s bajonetem nějaký mladičký vojáček z mužstva nádražního velitelství, který pojímal svou úlohu velice vážně. Stál vzpřímen u výhybky a tvářil se tak vítězoslavně, jako by to bylo jeho dílo naražení kaprála na výhybku.
 
@@ -534,11 +570,15 @@ Krátce předtím byla mezi hejtmanem Ságnerem a snaživým kadetem Bieglerem 
 
 Kadet Biegler podal veliteli bataliónu dvě z těch pohlednic, které vydávalo ředitelství Vojenského válečného archívu ve Vídni, kde byl náčelníkem generál pěchoty Wojnowich. Na jedné straně byla karikatura ruského vojáka, ruského mužika se zarostlou bradou, kterého objímá kostlivec. Pod karikaturou byl text:
 
-  
+</section>
+
+<section>
 
 „Der Tag, an dem das perfide Rußland krepieren wird, wird ein Tag der Erlösung für ganze unsere Monarchie sein.“
 
-  
+</section>
+
+<section>
 
 Druhá pohlednice pocházela z německé říše. Byl to dárek Němců rakousko-uherským vojínům.
 
@@ -548,7 +588,9 @@ Básnička dole byla vzata z knížky Greinzovy „Železná pěst“. Žertí�
 
 Text pod šibenicí, v překladě:
 
-  
+</section>
+
+<section>
 
 _GREY  
 Na šibenici v příjemné výši  
@@ -560,7 +602,9 @@ k popravě toho Jidáše.
 Na dřevě visí osiky  
 z francouzské republiky._
 
-  
+</section>
+
+<section>
 
 Hejtman Ságner nebyl ještě ani hotov s přečtením těchto veršů „nezkroceného humoru a nepřekonatelného vtipu“, když vrazil do štábního vagónu bataliónní ordonanc Matušič.
 
@@ -592,7 +636,9 @@ Velitel nádraží podíval se na hodinky.
 
 „Tedy nazdar!“ odpověděl Ságner[^3] a vyšel před budovu nádražního velitelství.
 
-  
+</section>
+
+<section>
 
 Když se hejtman Ságner vrátil před odjezdem vlaku do štábního vagónu, našel všecky důstojníky na svém místě. Hráli ve skupinách čapáry (frische viere), jedině kadet Biegler nehrál.
 
@@ -614,7 +660,9 @@ Hejtman Ságner odvedl kadeta Bieglera k oknu.
 
 Sešitek měl nadpis:
 
-  
+</section>
+
+<section>
 
 _Schémata vynikajících a slavných bitev  
 vojsk rakousko-uherské armády,  
@@ -623,7 +671,9 @@ c. k. důstojníkem Adolfem Bieglerem.
 Poznámkami a vysvětlivkami opatřil  
 c. k. důstojník Adolf Biegler._
 
-  
+</section>
+
+<section>
 
 Schémata byla strašně jednoduchá.
 
@@ -671,7 +721,9 @@ Než přijeli do Pešti, byl kadet Biegler tak opilý, že nahýbaje se z okna 
 
 Potom ho na rozkaz hejtmana Ságnera batalionsordonanc Matu­šič odtáhl do kupé, kde ho se sluhou hejtmana Batzerem uložil na lavici, a kadet Biegler měl tento sen:
 
-  
+</section>
+
+<section>
 
 Měl signum laudis, železný kříž a byl majorem a jel na obhlídku účastku brigády, která mu byla přidělena. Nedovedl si sice vysvětlit, když má pod sebou celou brigádu, proč je neustále jen majorem. Měl podezření, že měl být jmenován generálmajorem a to „generál“ že se někde v návalu na polní poště ztratilo.
 
@@ -683,13 +735,17 @@ Když jel automobilem na pozici na obhlídku účastku své brigády, bylo mu v�
 
 Kolem táhli vojáci a zpívali píseň, kterou četl ve sbírce vojenských rakouských písní „Es gilt“:
 
-  
+</section>
+
+<section>
 
 _„Halt euch brav, ihr tapf’ren Brüder,  
 werft den Feind nur herzhaft nieder,  
 laßt des Kaisers Fahne weh’n…“_
 
-  
+</section>
+
+<section>
 
 Krajina měla týž ráz jako na obrázcích „Wiener Illustrierte Zeitung“.
 
@@ -797,7 +853,9 @@ A z úst pánaboha zněl hlas:
 
 Kadet Biegler někam padal do hrozného smradu…
 
-  
+</section>
+
+<section>
 
 Naproti spícímu kadetovi Bieglerovi seděl Matušič se sluhou hejt­mana Ságnera Batzerem a hráli stále šestašedesát.
 
@@ -857,12 +915,16 @@ Aktivní důstojníci u praporu považovali ho za něco méněcenného. Rezervn
 
 Hejtman Ságner cítil se přirozeně strašně povýšen nad toho bývalého MUC, který zesekal za dob svých dlouholetých studií kolik důstojníků. Když doktor Welfer, „válečný doktor“, prošel kolem něho, ani se na něho nepodíval a hovořil dál s nadporučíkem Lukášem o něčem zcela bezvýznamném, že se pěstují u Budapešti dýně, načež nadporučík Lukáš odpověděl, že když byl v třetím ročníku kadetky, že s několika kamarády „v civilu“ byli na Slovensku a přišli k jednomu evangelickému faráři, Slovákovi. Ten že jim dal k vepřové pečeni zelí z dýně a potom že jim nalil vína a řekl:
 
-  
+</section>
+
+<section>
 
 _„Dyňa sviňa,  
 chce sa jej vína,“_
 
-  
+</section>
+
+<section>
 
 a on že se strašně urazil.[^5]
 
@@ -987,3 +1049,5 @@ A tak se stal z kadeta Bieglera, nadšeného bojovníka, nositel cholerových 
 [^4]: Udo Kraft: „Selbsterziehung zum Tod für Kaiser“. C. F. Amelang’s Verlag, Leipzig.
 
 [^5]: Rozmluva hejtmana Ságnera s nadporučíkem Lukášem byla vedena v čes­kém jazyce.
+
+</section>

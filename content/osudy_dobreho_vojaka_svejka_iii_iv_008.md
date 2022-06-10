@@ -3,6 +3,8 @@ title: "3\\. Z\_Hatvanu na hranice Haliče"
 contentType: prose
 ---
 
+<section>
+
 Po celou dobu železniční přepravy bataliónu, který měl sklízet válečnou slávu, až projde pěšky od Laborce východní Haličí na front, vedly se ve vagónu, kde byl jednoroční dobrovolník a Švejk, opět podivné řeči, víceméně velezrádného obsahu, v menším měřítku, ale můžeme říct povšechně, dělo se tak i v jiných vagónech, ba i ve štábním vagónu panovala jakási nespokojenost, poněvadž ve Füzesabony přišel rozkaz po armádě od pluku, ve kterém se porce vína snižovala důstojníkům o jednu osminku litru. Ovšem že přitom nebylo zapomenuto na mužstvo, kterému se snižovala dávka sága o jeden dekagram na muže, což bylo tím záhadnějším, že nikdo nikdy na vojně sága neviděl.
 
 Nicméně bylo to třeba oznámiti účetnímu šikovateli Bautanzlovi, který se tím cítil strašně uražen a okraden, což vyjádřil také tím, že ságo je dnes vzácná věc a že by za kilo dostal aspoň osm korun.
@@ -357,7 +359,9 @@ Poručík Dub obrátil se tedy, cítě potřebu vůbec něco mluvit, na hejtmana
 
 „Pardon, na moment,“ řekl hejtman Ságner a vyšel z vagónu.
 
-  
+</section>
+
+<section>
 
 Mezitím Švejk vypravoval si s Kunertem o jeho pánovi.
 
@@ -377,7 +381,9 @@ Vodkuď vlastně seš? Přímo z Budějovic? To chválím, když je někdo př�
 
 Za čtvrt hodiny se jelo dál na Novou Čabynu přes vypálené vesnice Brestov a Veliký Radvaň.
 
-  
+</section>
+
+<section>
 
 Bylo vidět, že zde to již šlo do tuhého.
 
@@ -681,7 +687,9 @@ Kuchař kumpanie počal si z něho dělat legraci, že až se přijede do Sanok
 
 Všichni se tomu upřímně smáli a kuchař, sedě na polní kuchyni, zazpíval:
 
-  
+</section>
+
+<section>
 
 _„Župajdijá, župajdá,  
 šak nás pánbůh nezandá.  
@@ -692,7 +700,9 @@ Zandá-li nás do houště,
 Župajdijá, župajdá,  
 šak nás pánbůh nezandá…“_
 
-  
+</section>
+
+<section>
 
 Za stanicí Ščavne počaly se objevovat opět v údolích nové vojenské hřbitůvky. Pod Ščavne bylo vidět z vlaku kamenný kříž s bezhlavým Kristem Pánem, který ztratil hlavu při odstřelu trati.
 
@@ -769,3 +779,5 @@ Chodounský odpověděl vlídně:
 „To ti musí stačit,“ řekl Švejk, „nebo chceš ještě něco k tomu doplnit? Pamatuješ se na toho telefonistu z Titaniku, kterej, když už loď se potápěla, pořád telefonoval dolů do zatopený kuchyně, kdy už bude voběd?“
 
 „Mně na tom nesejde,“ řekl jednoroční dobrovolník, „popřípadě se může předsmrtný výrok Chodounského doplnit tím, že on nakonec zvolá do telefonu: ‚Pozdravujte ode mne naši železnou brigádu!‘“
+
+</section>

@@ -3,6 +3,8 @@ title: "3\\. Švejk opět u\_své marškumpanie"
 contentType: prose
 ---
 
+<section>
+
 Onen major, který dělal auditora při včerejším dopoledním líčení se Švejkem, byla tatáž figura, která večer u generála pila na bratrství s polním kurátem a klímala.
 
 Jisto bylo, že nikdo nevěděl, kdy a jak major v noci od generála odešel. Všichni byli v takovém stavu, že nikdo nezpozoroval jeho nepřítomnosti, generál si dokonce pletl, kdo vlastně ze společnosti mluví. Major nedlel již přes dvě hodiny ve společnosti, ale generál přesto kroutil si vousy, a pitomě se usmívaje, volal:
@@ -69,12 +71,16 @@ Major si najednou nemohl vzpomenout, proč sem vlastně přišel, proto řekl:
 
 Major však nedbal této odpovědi, neboť generálovo víno a likéry vyráběly v jeho mozku poslední alkoholickou reakci. Zívl tak strašně, že by se každému civilistovi vykloubily sanice. U majora však toto zívnutí přemístilo jeho myšlení v ty mozkové záviny, kde lidstvo chová dar zpěvu. Zapadl zcela nenuceně na Švejkův kavalec na pryčně a takovým hlasem, jaký vyráží podřezané podsvinče před svým skonem, ječel:
 
-  
+</section>
+
+<section>
 
 _„Oh, Tannenbaum! Oh, Tannenbaum,  
 wie schön sind deine Blätter!“_
 
-  
+</section>
+
+<section>
 
 což opakoval několikrát za sebou, vplétaje v tu píseň nesrozumitelné skřeky.
 
@@ -148,11 +154,15 @@ Zatímco major četl telegram, vstal generál ze židle, běhal po pokoji, porá
 
 Telegram byl tohoto znění:
 
-  
+</section>
+
+<section>
 
 _Pěšák Josef Švejk, ordonanc 11. pochodové roty, ztratil se 16. t. m. na přechodu Chyrów–Felštýn na služební cestě jako zaopatřovač bytů. Neprodleně dopravit pěšáka Švejka na brigádní velitelství do Wojalycze._
 
-  
+</section>
+
+<section>
 
 Major otevřel si stůl, vytáhl mapu a zamyslel se nad tím, že Felštýn je 40 kilometrů jihovýchodně od Přemyšlu, takže jevila se zde hrozná záhada, jak přišel pěšák Švejk k ruské uniformě v místech vzdálených přes sto padesát kilometrů od fronty, když pozice táhnou se v linii Sokal – Turze – Kozlów.
 
@@ -180,11 +190,15 @@ V arestě zanechal Švejk po sobě malou památku, vyškrábav na stěně kousk
 
 Se Švejkem šel současně tento papír na brigádu:
 
-  
+</section>
+
+<section>
 
 _Na základě telegramu číslo 469 dodává se pěšák Josef Švejk, zběhlý od 11. pochodové roty, k dalšímu řízení v štáb brigády._
 
-  
+</section>
+
+<section>
 
 Sama eskorta, sestávající ze čtyř mužů, byla směsí národností. Byl v ní Polák, Maďar, Němec a Čech, který eskortu vedl a měl hodnost frajtra a naparoval se vůči krajanovi arestantovi, dávaje mu najevo svou hroznou nadvládu. Když totiž Švejk na nádraží projevil přání, by dovoleno mu bylo se vymočit, řekl mu frajtr docela hrubě, že bude močit, až přijede k brigádě.
 
@@ -222,7 +236,9 @@ Polák mu na to neodpovídal a nakonec celá eskorta byla v hlubokém mlčení
 
 Tak se blížili ku štábu brigády do Wojalyzce.
 
-  
+</section>
+
+<section>
 
 Mezitím se u štábu brigády zběhly jisté velice podstatné změny.
 
@@ -318,7 +334,9 @@ Poručík Dub se k nijakému jinému vyjádření nedostal než ke slůvku _Abt
 
 „Ty mne ještě poznáš, ježíšmarjá, ty mne poznáš…“
 
-  
+</section>
+
+<section>
 
 Ve stanici Zóltance bylo shromáždění celého bataliónu hejtmana Ságnera až na nachhút ze 14. kumpanie, který se někde ztratil, když obcházeli Lvov.
 
@@ -450,7 +468,9 @@ V Nuslích je nějakej pan Hauber, toho jednou v neděli v Kundraticích na s
 
 Švejk vyrazil k faře pevným vojenským krokem, přičemž si zpíval:
 
-  
+</section>
+
+<section>
 
 _„Podívej se na mne,  
 potěšení moje,  
@@ -458,7 +478,9 @@ podívej se na mne,
 jak sou udělali  
 ze mne pána…“_
 
-  
+</section>
+
+<section>
 
 Pak vstoupil Švejk do fary po schodech nahoru, odkud ozývaly se hlasy důstojníků.
 
@@ -600,7 +622,9 @@ Poručík Dub se otočil, odplivl si, strkaje před sebou kadeta Bieglera nahoru
 
 „Poslušně hlásím,“ křičel za ním Švejk, „že už je dávám dolů!“
 
-  
+</section>
+
+<section>
 
 Kadet Biegler byl jako moucha. Za tu dobu prodělal několik cholerových stanic a zvykl si plným právem po všech manipulacích, které s ním jako cholerou podezřelým zaváděli, že už počal zcela nevědomky neustále pouštět do kalhot. Až se konečně dostal do rukou na jedné takové pozorovací stanici nějakému odborníkovi, který v jeho výmětech nezjistil cholerových bacilů, utužil mu střeva taninem jako švec dratví rozbité čochty a poslal ho na nejbližší etapní velitelství, uznav kadeta Bieglera, který byl jako pára nad hrncem, frontdiensttauglich.
 
@@ -744,7 +768,9 @@ Poručík Dub vykřikl na šoféra, aby zastavil.
 
 „Jeďte dál,“ hlasem jako v deliriu houkl poručík Dub na šoféra a zahalil se potom v důstojné mlčení jako Julius Caesar, když se k němu přibližovali spiklenci s dýkami, aby ho probodli. Tak přijeli do Zóltance, kde našli stopu bataliónu.
 
-  
+</section>
+
+<section>
 
 Mezitímco poručík Dub s kadetem Bieglerem se ještě na schodech hádali o tom, zdali kadet, který není ještě nikam zařazen, má nárok na jitrnici z onoho množství, které připadá na důstojnictvo jednotlivých kumpanií, dole v kuchyni zatím byli již syti a rozložili se po rozlehlých lavicích a rozhovořili se o všem možném, přičemž bafali ostošest z dýmek.
 
@@ -813,3 +839,5 @@ Biegler vzal si plnou sklenici, usedl potom zcela skromně k oknu a čekal na 
 Poručík Dub, kterému ty hrozné přiboudliny lezly do hlavy, klepal prstem o stůl a zčistajasna obrátil se k hejtmanovi Ságnerovi:
 
 „S okresním hejtmanem jsme vždy říkávali: ‚Patriotismus, věrnost k povinnosti, sebepřekonání, to jsou ty pravé zbraně ve válce!‘ Připomínám si to zejména dnes, když naše vojska v dohledné době překročí hranice.“
+
+</section>
