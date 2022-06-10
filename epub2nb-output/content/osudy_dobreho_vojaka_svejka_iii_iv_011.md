@@ -3,6 +3,8 @@ title: "1\\. Švejk v\_transportu ruských zajatců"
 contentType: prose
 ---
 
+<section>
+
 Když tedy Švejk, považovaný omylem v ruském plášti a ve furažce za ruského zajatce, uprchlého z vesnice před Felštýnem, psal své zoufalé výkřiky uhlem na stěny, nikdo si toho nevšímal, a když chtěl v Chyrówě na etapě všechno dopodrobna vysvětlit nějakému důstojníkovi, který šel právě okolo, když jim rozdávali kousky tvrdého kukuřičného chleba, tu ho jeden z maďarských vojáků, hlídající transport zajatců, uhodil kolbou do ramene s poznámkou:
 
 „Baszom az élet, lezeš do řady, ruská svině!“
@@ -219,7 +221,9 @@ Dříve, ještě za Marie Terezie, v dobách válečných zaváděny byly též
 
 C. k. kočky v mnohých případech nekonaly však svou povinnost, a tak stalo se, že jednou za císaře Leopolda ve vojenském skladišti na Pohořelci, na základě výnosu vojenského soudu, bylo oběšeno šest koček přidělených k vojenskému skladišti. Já vím, že se tenkrát pěkně usmívali pod vousy všichni ti, co měli s tím vojenským skladištěm…
 
-  
+</section>
+
+<section>
 
 S ranní kávou strčili k Švejkovi do díry nějakého člověka v ruské furažce a v ruském vojenském plášti.
 
@@ -313,13 +317,17 @@ To u něho neexistovalo. Když dal pověsit učitele, učitelku, popa nebo celo
 
 Někdy nalézal ve věšení i komickou stránku, o čemž také jednou psal své manželce do Vídně:
 
-  
+</section>
+
+<section>
 
 _„… nebo například, má drahá, nedovedeš si představit, jak jsem se předešle nasmál, když před několika dny odsoudil jsem jednoho učitele pro vyzvědačství. Mám vycvičeného člověka, který to věší, má již větší praxi, je to jeden šikovatel, a ten to dělá ze sportu. Byl jsem ve svém stanu, když po rozsudku přišel ten šikovatel ke mně a ptá se mne, kde má toho učitele pověsit. Řekl jsem mu, že na nejbližším stromě, a nyní si považ tu komičnost situace. Byli jsme uprostřed stepi, kde do nedozírna nic jiného jsme neviděli než trávu a na míle cesty ani stromečku. Rozkaz je rozkaz, proto šikovatel vzal učitele s sebou s eskortou a jeli hledat strom. Vrátili se až večer, opět s učitelem. Šikovatel přišel ke mně a ptá se mne opět: ‚Na čem mám pověsit toho chlapa?‘ Vynadal jsem mu, že přece můj rozkaz byl: na nejbližším stromě. Řekl, že se tedy ráno o to pokusí, a ráno přišel celý bledý, že učitel do rána zmizel. Připadalo mně to tak směšné, že jsem všem odpustil, kteří ho hlídali, a ještě jsem udělal vtip, že se ten učitel patrně sám šel poohlédnout po nějakém stromě._
 
 _Tak vidíš, má drahá, že se zde nijak nenudíme, a řekni malému Viloušovi, že ho tatínek líbá a že mu brzo pošle živého Rusa, na kterém bude Viloušek jezditi jako na koníčkovi. Ještě ti, má drahá, si vzpomínám na jeden směšný případ. Věšeli jsem onehdy jednoho žida pro vyzvědačství. Chlap se nám připletl do cesty, ačkoliv tam neměl co dělat, a vymlouval se, že prodává cigarety. Tedy visel, ale jen několik vteřin, provaz se s ním přetrhl a on spadl dolů, hned se vzpamatoval a křičel na mne: ‚Pane generále, já jdu domů, už jste mě pověsili, a podle zákona nemohu být za jednu věc dvakrát pověšen.‘ Dal jsem se do smíchu a žida jsme pustili. U nás je, má drahá, veselo…“_
 
-  
+</section>
+
+<section>
 
 Když se generál Fink stal velitelem posádky pevnosti Přemyšlu, neměl již tolik příležitostí pořádat podobné cirkusy, proto s velkou radostí chopil se Švejkova případu.
 
@@ -335,7 +343,9 @@ Major byl romantický snílek. Mluvil ještě o tom, že vlastně se hledají j
 
 Švejk po tu celou dobu debaty byl střežen na chodbě dvěma bajonety, potom byl opět přiveden před soud a ještě jednou otázán, ke kterému pluku vlastně patří. Potom ho přestěhovali do garnizónního vězení.
 
-  
+</section>
+
+<section>
 
 Když se generál Fink vrátil po nezdařeném náhlém soudu domů, lehl si na pohovku a přemítal, jak by vlastně urychlil celé jednání.
 
@@ -417,10 +427,14 @@ A naplňuje za chvíli polnímu kurátovi sklenici na víno, pravil přívětiv
 
 Ze zamřížovaného okna, za kterým seděl Švejk na kavalci, ozýval se v tento hrozný čas jeho zpěv:
 
-  
+</section>
+
+<section>
 
 _„My vojáci, my jsme páni,  
 nás milujou holky samy,  
 my fasujem peníze,  
 máme se všady dobře…  
 Cárárá… Ein, zwei…“_
+
+</section>
