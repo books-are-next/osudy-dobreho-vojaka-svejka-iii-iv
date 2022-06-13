@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-9a78416';
+const CACHE = 'cache-8aa4b98';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./osudy_dobreho_vojaka_svejka_iii_iv_005.html","./osudy_dobreho_vojaka_svejka_iii_iv_006.html","./osudy_dobreho_vojaka_svejka_iii_iv_007.html","./osudy_dobreho_vojaka_svejka_iii_iv_008.html","./osudy_dobreho_vojaka_svejka_iii_iv_009.html","./osudy_dobreho_vojaka_svejka_iii_iv_011.html","./osudy_dobreho_vojaka_svejka_iii_iv_010.html","./osudy_dobreho_vojaka_svejka_iii_iv_012.html","./osudy_dobreho_vojaka_svejka_iii_iv_013.html","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png","./resources/image001_fmt.jpeg","./resources/image003_fmt.jpeg","./resources/image004_fmt.jpeg","./resources/obalka_osudy_dobreho_v_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg"]);
+        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./osudy_dobreho_vojaka_svejka_iii_iv_005.html","./osudy_dobreho_vojaka_svejka_iii_iv_006.html","./osudy_dobreho_vojaka_svejka_iii_iv_007.html","./osudy_dobreho_vojaka_svejka_iii_iv_008.html","./osudy_dobreho_vojaka_svejka_iii_iv_009.html","./osudy_dobreho_vojaka_svejka_iii_iv_010.html","./osudy_dobreho_vojaka_svejka_iii_iv_011.html","./osudy_dobreho_vojaka_svejka_iii_iv_012.html","./osudy_dobreho_vojaka_svejka_iii_iv_013.html","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.jpeg","./resources/image003_fmt.jpeg","./resources/image004_fmt.jpeg","./resources/obalka_osudy_dobreho_v_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {
