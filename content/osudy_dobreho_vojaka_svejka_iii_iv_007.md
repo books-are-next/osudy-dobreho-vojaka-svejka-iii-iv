@@ -461,7 +461,7 @@ _…dejším penzionátě bohužel dámy_
 
 _svérázné zábavě. A utrousily-li t_
 
-                   _šel člověk jen a pouze stesk na ct_
+            _šel člověk jen a pouze stesk na ct_
 
 _se lepšila, neb nechtěla tak úspěšně_
 
