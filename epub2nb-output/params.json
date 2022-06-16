@@ -8,7 +8,8 @@
       "modified": "2021-09-20T13:32:13.110Z",
       "languageCode": "cs",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "contentType": "prose"
     },
     "elements": {
       "title": "MLP-uroven1-cast\nMLP-uroven2-kapitola",
@@ -368,6 +369,6 @@
       "user": "books-are-next",
       "repo": "osudy-dobreho-vojaka-svejka-za-svetove-valky-III.-IV."
     },
-    "generatedAt": 1655271613102
+    "generatedAt": 1655364276150
   }
 }
