@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hasek-osudy-dobreho-vojaka-svejka-za-svetove-valky-iiiiv-6245627",
-  "revision": "6245627",
+  "identifier": "hasek-osudy-dobreho-vojaka-svejka-za-svetove-valky-iiiiv-06e3b59",
+  "revision": "06e3b59",
   "readingOrder": [
     "promo.html",
     "osudy_dobreho_vojaka_svejka_iii_iv_005.html",
@@ -21,11 +21,11 @@
     "osudy_dobreho_vojaka_svejka_iii_iv_011.html",
     "osudy_dobreho_vojaka_svejka_iii_iv_012.html",
     "osudy_dobreho_vojaka_svejka_iii_iv_013.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:18:56 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979536027
+    "date": "Thu Jul 07 2022 08:35:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182935599
   },
   "documents": [
     {
@@ -114,7 +114,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "3. Z Hatvanu na hranice Haliče",
+          "name": "3. Z Hatvanu na hranice Haliče",
           "id": null,
           "children": []
         }
@@ -209,7 +209,7 @@
       "role": "chapter",
       "order": 9,
       "prev": "osudy_dobreho_vojaka_svejka_iii_iv_012.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -222,11 +222,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 147,
-      "chars": 955,
+      "chars": 954,
       "ideas": 19,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "osudy_dobreho_vojaka_svejka_iii_iv_013.html",
       "next": null,
@@ -243,8 +243,8 @@
   ],
   "totals": {
     "all": {
-      "words": 84028,
-      "chars": 510258,
+      "words": 84027,
+      "chars": 510262,
       "ideas": 2389
     },
     "chapters": {

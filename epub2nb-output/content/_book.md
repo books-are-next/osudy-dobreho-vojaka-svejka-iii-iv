@@ -24,7 +24,7 @@ readingOrder:
   - osudy_dobreho_vojaka_svejka_iii_iv_011.html
   - osudy_dobreho_vojaka_svejka_iii_iv_012.html
   - osudy_dobreho_vojaka_svejka_iii_iv_013.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
