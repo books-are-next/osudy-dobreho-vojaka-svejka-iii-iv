@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hasek-osudy-dobreho-vojaka-svejka-za-svetove-valky-iiiiv-2b6a2a8",
-  "revision": "2b6a2a8",
+  "identifier": "hasek-osudy-dobreho-vojaka-svejka-za-svetove-valky-iiiiv-12d9ea3",
+  "revision": "12d9ea3",
   "readingOrder": [
     "promo.html",
     "osudy_dobreho_vojaka_svejka_iii_iv_005.html",
@@ -24,8 +24,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 16:48:42 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664902122511
+    "date": "Tue Oct 04 2022 18:43:48 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664909028998
   },
   "documents": [
     {
